@@ -1,2 +1,43 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+html, body {
+  background: #f8f8f8;  
+}
+
+body > header {
+
+  hgroup {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  h1 {
+    color: #ffffff;
+    font-family: Roboto, sans-serif;
+    font-size: 36px;
+    font-weight: 300;
+    height: 44px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  h2 {
+    color: #ffffff;
+    font-family: Roboto, sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+  }  
+}
+
+#logo {
+  height: 40px;
+  position: relative;
+  top: 6px;
+}
+
+#main {
+  width: 95%;
+  margin-left: 5%
+}
