@@ -11,7 +11,7 @@ You don’t need an economist to tell you oil prices are tanking. Anyone who’s
 * Demand is low because of weak economic activity, increased efficiency, and movement towards oil alternatives. 
 * Turmoil in Iraq and Libya, two big oil producers, has not affected their exporting. 
 * America has become the world’s largest oil producer. Though it does not export crude oil, it now imports much less, creating a lot of spare supply.
-* The Saudis and their Gulf allies have decided not to sacrifice their own market share to restore the price. They can afford to do so since their margins are much much higher than they detest such as Iran and Russia.
+* The Saudis and their Gulf allies have decided not to sacrifice their own market share to restore the price. They can afford to do so since their margins are much higher than countries they detest such as Iran and Russia.
 
 ##Do these current prices uncover investment opportunities? 
 
