@@ -1,0 +1,236 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>How Cappio Picks Winning Stocks - Capital In, Capital Out</title>
+  <meta name="author" content="Cappio">
+
+  
+  <meta name="description" content="One of the most frequent questions we get emailed is &ldquo;how does Cappio work?&rdquo; What powers Cappio is not some Wall Street wizardry, it& &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://cappio.github.io/blog/2015/01/05/how-to-pick-winning-stocks">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="Capital In, Capital Out" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-57797749-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <img src="http://www.capp.io/assets/logo-2e81af1be242f2a0b46dc2752bd0afb0.png" id="logo">
+  <h1><a href="/">Capital In, Capital Out</a></h1>
+  
+    <h2>The Cappio Blog</h2>
+  
+</hgroup>
+
+</header>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">How Cappio Picks Winning Stocks</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2015-01-05T12:33:49-05:00'><span class='date'><span class='date-month'>Jan</span> <span class='date-day'>5</span><span class='date-suffix'>th</span>, <span class='date-year'>2015</span></span> <span class='time'>12:33 pm</span></time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><!-- Our best advice for anyone who asks that question is to stop and educate themselves before they throw away their money. These days, there are a ton of investment vehicles that are well suited for retail investors, such as ETFs, Index/Mutual Funds, and the more modern roboadvisors, like Wealthfront and Betterment. However, you want to retain control and understand where you money is going, stocks will always be a sensible choice. While  "stock picking" is inherently risky, there are many methods to reduce this risk and maximize your chances of growing your portfolio. -->
+
+
+<p>One of the most frequent questions we get emailed is &ldquo;how does Cappio work?&rdquo; What powers Cappio is not some Wall Street wizardry, it&rsquo;s tried and true methodology using fundamental analysis. Fundamental Analysis is the process of researching a company based on what they do, how they make money, and it&rsquo;s financial data.</p>
+
+<p>Luckily, an accounting professor by the name of Joseph Piotroski at the University of Chicago formalized many fundamental metrics that should be used when evaluating a company. We’ve added a few comparative metrics to the Cappio algorithm to make it more comphrensive and computational. Below is a video summarizing the methodology we will go over in this post:</p>
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/bDedohLsEwo" allowfullscreen></iframe></div>
+
+
+<h1>Breaking it down</h1>
+
+<p>Determining if a company is financially stable can be subjective and daunting so Cappio breaks it down into a simple checklist in five domains:</p>
+
+<h3>Fundamentals - Is the company making and retaining money?</h3>
+
+<ul>
+<li>Is the revenue growing?</li>
+<li>Is the net income growing?</li>
+<li>Is the current ratio (a measure of how able they are to pay off short term debt) not too far over 1.0?</li>
+<li>Is the free cash flow (money in the bank) increasing?</li>
+</ul>
+
+
+<h3>Valuation - Is the company fairly valued amongst its competitors?</h3>
+
+<p>Here, we need to find the company’s top three competitors, and compare the following datapoints:</p>
+
+<ul>
+<li>Quarterly Revenue Growth</li>
+<li>Revenue</li>
+<li>Gross Margin</li>
+<li>EBITDA</li>
+<li>Operating Margin</li>
+<li>Net Income</li>
+<li>Earnings per Share (EPS)</li>
+<li>Price to Earnings Growth (PEG)</li>
+<li>Price to Sales (P/S)</li>
+</ul>
+
+
+<p>Generally, the first seven metrics should be higher than competitors. The last three should be lower.</p>
+
+<h3>Management Effectiveness - Is the company’s management team handling money well?</h3>
+
+<ul>
+<li>Has the Return on Assets (RoA) increased since last year and does it fall into a comparable range among its competitors?</li>
+<li>Has the Return on Equity (RoE) increased since last year and does it fall into a comparable range among its competitors?</li>
+</ul>
+
+
+<h3>Profitability - How much money does the company retain?</h3>
+
+<ul>
+<li>Has the Operating Margin increased since last year and does it fall into a comparable range among its competitors?</li>
+<li>Has the Profit Margin increased since last year and does it fall into a comparable range among its competitors?</li>
+</ul>
+
+
+<h3>Growth - Is the company going to grow?</h3>
+
+<p>Evaluating growth is subjective and the answer can&rsquo;t be found in just numbers. Do you see any reason why the company is going to grow in the coming months/years? Will Apple sell more iPhones and Apple Watches next year? Will Alibaba expand outside of China? This is where where keeping up with current events and formulating your own opinions comes into play.</p>
+
+<p>Keep in mind there&rsquo;s no company that is going to fulfill every criteria. However, a company that meets most of them is a solid investment. The reason is simple - a fundamentally strong company is making money and growing. As a company grows, so does the value of the company and therefore, the stock price increases over time.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Cappio</span></span>
+
+      
+
+
+
+
+<time class='entry-date' datetime='2015-01-05T12:33:49-05:00'><span class='date'><span class='date-month'>Jan</span> <span class='date-day'>5</span><span class='date-suffix'>th</span>, <span class='date-year'>2015</span></span> <span class='time'>12:33 pm</span></time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://cappio.github.io/blog/2015/01/05/how-to-pick-winning-stocks/" data-via="" data-counturl="http://cappio.github.io/blog/2015/01/05/how-to-pick-winning-stocks/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2014/12/17/a-beginner-investors-guide-to-the-oil-price-drop/" title="Previous Post: A Beginner Investor's Guide to the Oil Price Drop">&laquo; A Beginner Investor&#8217;s Guide to the Oil Price Drop</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><!-- Add Disqus comments. -->
+<div id="disqus_thread"></div>
+  <script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = "cappio"; // required: replace example with your forum shortname
+    var disqus_identifier = "cappio/blog/2015/01/05/how-to-pick-winning-stocks/";
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  </script>
+
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2015/01/05/how-to-pick-winning-stocks/">How Cappio Picks Winning Stocks</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/12/17/a-beginner-investors-guide-to-the-oil-price-drop/">A Beginner Investor&#8217;s Guide to the Oil Price Drop</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+</body>
+</html>
