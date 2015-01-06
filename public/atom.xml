@@ -4,7 +4,7 @@
   <title><![CDATA[Capital In, Capital Out]]></title>
   <link href="http://cappio.github.io/atom.xml" rel="self"/>
   <link href="http://cappio.github.io/"/>
-  <updated>2015-01-05T22:37:16-05:00</updated>
+  <updated>2015-01-06T15:15:55-05:00</updated>
   <id>http://cappio.github.io/</id>
   <author>
     <name><![CDATA[Cappio]]></name>
@@ -28,38 +28,31 @@
 <div class="embed-video-container"><iframe src="//www.youtube.com/embed/bDedohLsEwo" allowfullscreen></iframe></div>
 
 
-<h1>Breaking it down</h1>
+<h1>Breaking it Down</h1>
 
-<p>Determining if a company is financially stable can be subjective and daunting so Cappio breaks it down into a simple checklist in five domains:</p>
+<p>Determining if a company is financially stable can seem subjective and daunting. Cappio breaks down the financial data into four domains to help analysze the company from the top down:</p>
 
-<h3>Industry - How does the company stand against industry averages?</h3>
+<h3>Industry</h3>
+
+<p>A healthy company should be growing faster and capturing the market it is in. To get a general idea, we can take a look at some common ratios and compare the company to industry averages.</p>
 
 <p><img src="http://note.io/1yummND"></p>
 
-<h3>Valuation - Is the company fairly valued amongst its competitors?</h3>
+<p>If you need a refresher on any of these terms, Cappio has easy to understand tooltips for every one of these metrics. You can read them by hovering over the terms you are confused about in the app.</p>
+
+<h3>Valuation</h3>
+
+<p>Similar to the Industry section, Valuation helps compare a company to it&rsquo;s top three competitors. Also like in the Industry section you can find explanations of the terms by highlighting them in the app. Generally, the first seven metrics should be higher than competitors and the last three should be lower.</p>
 
 <p><img src="http://note.io/14fzjO7"></p>
 
-<p>Here, we need to find the company’s top three competitors, and compare the following datapoints:</p>
+<h3>Fundamentals</h3>
 
-<ul>
-<li>Quarterly Revenue Growth</li>
-<li>Revenue</li>
-<li>Gross Margin</li>
-<li>EBITDA</li>
-<li>Operating Margin</li>
-<li>Net Income</li>
-<li>Earnings per Share (EPS)</li>
-<li>Price to Earnings Growth (PEG)</li>
-<li>Price to Sales (P/S)</li>
-</ul>
+<p>The fundamentals of a company involve diving into three major financial statements, the balance sheet, income statement, and cash flow statement. These three are used in tandem to find out if the company is making and retaining money.</p>
 
+<p><img src="http://i.imgur.com/uimblUe.png"></p>
 
-<p>Generally, the first seven metrics should be higher than competitors. The last three should be lower.</p>
-
-<h3>Fundamentals - Is the company making and retaining money?</h3>
-
-<p><img src="http://note.io/14fzjO7"></p>
+<p>Some specific metrics to look out for:</p>
 
 <ul>
 <li>Is the revenue growing?</li>
@@ -69,23 +62,21 @@
 </ul>
 
 
-<h3>Management Effectiveness and Profitability - Is the company’s management team handling money well?</h3>
+<h3>Management Effectiveness and Profitability</h3>
 
-<p><img src="http://note.io/14fzjO7"></p>
+<p>As a rule of thumb, you can gauge a company&rsquo;s management effectiveness by taking a look at the Return on Assets (RoA) and Return on Equity (RoE.) It&rsquo;s always a good sign to see them both increasing compared to the previous year and in well-ranked among its competitors.</p>
 
-<ul>
-<li>Has the Return on Assets (RoA) increased since last year and does it fall into a comparable range among its competitors?</li>
-<li>Has the Return on Equity (RoE) increased since last year and does it fall into a comparable range among its competitors?</li>
-<li>Has the Operating Margin increased since last year and does it fall into a comparable range among its competitors?</li>
-<li>Has the Profit Margin increased since last year and does it fall into a comparable range among its competitors?</li>
-</ul>
+<p>To get an idea of the company&rsquo;s profitability, take a look at th Operating and Profit Margins to make sure they are positive and increasing.</p>
 
+<p><img src="http://i.imgur.com/j7hk2kE.png"></p>
 
-<h3>Growth - Is the company going to grow?</h3>
+<h3>Bringing It All Together</h3>
 
-<p>Evaluating growth is subjective and the answer can&rsquo;t be found in just numbers. Do you see any reason why the company is going to grow in the coming months/years? Will Apple sell more iPhones and Apple Watches next year? Will Alibaba expand outside of China? This is where where keeping up with current events and formulating your own opinions comes into play.</p>
+<p>As an overview, this methodology helps you get a good idea of how a potential investment stands against it&rsquo;s industry, competitors, and past performance. It may not be the most fun thing to do but you can cover a lot of bases and reduce your risk if you following simple checklists like these. I&rsquo;d also like to note that always helps to look at an investment holistically. Evaluating growth is subjective and the answer can&rsquo;t be found in just numbers. This is where where keeping up with current events and formulating your own opinions comes into play.</p>
 
 <p>Keep in mind there&rsquo;s no company that is going to fulfill every criteria. However, a company that meets most of them is a solid investment. The reason is simple - a fundamentally strong company is making money and growing. As a company grows, so does the value of the company and therefore, the stock price increases over time.</p>
+
+<p>Love to hear your thoughts on how you invest or any questions you have in the comments below!</p>
 ]]></content>
   </entry>
   
