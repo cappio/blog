@@ -47,7 +47,7 @@ Some specific metrics to look out for:
 
 As a rule of thumb, you can gauge a company's management effectiveness by taking a look at the Return on Assets (RoA) and Return on Equity (RoE.) It's always a good sign to see them both increasing compared to the previous year and in well-ranked among its competitors.
 
-To get an idea of the company's profitability, take a look at th Operating and Profit Margins to make sure they are positive and increasing.
+To get an idea of the company's profitability, take a look at the Operating and Profit Margins to make sure they are positive and increasing.
 
 {% img http://i.imgur.com/j7hk2kE.png %}
 
