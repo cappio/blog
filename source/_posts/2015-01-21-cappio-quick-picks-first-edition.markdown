@@ -19,6 +19,7 @@ Microsoft has really turned their focus towards mobile and cloud technologies in
 The cloud computing industry is growing like wildfire, with global spending reaching $150B in 2014.[^4] There's no sign of that trend slowing down. An IHS report shows by 2017, enterprise spending on cloud computing will amount to a projected $235.1B.[^5] Microsoft has positioned itself to compete with Amazon and Google to dominate this market. Revenue’s have increased over the last year and Microsoft has managed to accumulate a good amount of cash to acquire key players in cloud and mobile to grow its own service offerings. This is obvious when you take a look  aquisition history that 8 of the last 10 were related to cloud or mobile technologies.[^6]
 
 Overall, 2015 is looking really solid for Microsoft and there is a pretty high upside. Make sure to click the Cappio report below and check out a summary of Microsoft’s fundamentals:
+
 [{% img http://note.io/1CTm40Y %}](http://www.capp.io/queries/new?query=MSFT)
 
 [^1]: <http://www.zdnet.com/article/microsoft-ceo-satya-nadella-talks-mobile-first-cloud-first>
@@ -52,6 +53,7 @@ The pharmaceutical industry was incredibly successful this past year, reaching o
 [^12]: <http://www.imshealth.com/portal/site/imshealth/menuitem.c76283e8bf81e98f53c753c71ad8c22a/?vgnextoid=96bdd595ae072410VgnVCM10000076192ca2RCRD&vgnextchannel=ba11e590cb4dc310VgnVCM100000a48d2ca2RCRD&vgnextfmt=defaultl>
 
 Gilead is a prime example of this philosophy as it is extremely large and has great fundamentals. Check out the Cappio report for a quick fundamental overview:
+
 [{% img http://note.io/1yJb9aY %}](http://www.capp.io/queries/new?query=GILD)
 
 For additional reading on Gilead check out this article, [Fool - Could Gilead be a Top Stock in 2015?](http://www.fool.com/investing/general/2014/12/22/could-gilead-sciences-inc-be-a-top-stock-in-2015.aspx)
@@ -69,6 +71,7 @@ Their acquisition and growth of Marvel also shows how Disney capitalizes on oppo
 Disney growth engine is sparked with creativity and imagination. Imagination creates the movies, which make millions of dollars in the box office. However Disney has also invested in developing a world class research team that works on all sorts of scientific experiments. This research helps Disney to enter a variety of consumer industries beyond films. They even make all their research publically available on their website. [See their latest research projects here.](http://www.disneyresearch.com/projects/)
 
 Overall, Disney also has good fundamentals that can be taken a look at on our Cappio report:
+
 [{% img http://note.io/1yJdLpi %}](http://www.capp.io/queries/new?query=DIS)
 
 For additional reading on Disney, check out this article, [Fool - 3 Reasons Disney could top $100 in 2015](http://www.fool.com/investing/general/2014/12/09/3-reasons-walt-disney-co-stock-could-top-100-in-20.aspx)
