@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cappio Quick Picks - First Edition"
+title: "CappioNotes - First Edition: MSFT, GILD, DIS"
 date: 2015-01-21 16:23:19 -0500
 comments: true
 categories: 
