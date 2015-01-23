@@ -15,7 +15,7 @@ Today we are covering:
 
 Let's jump right into it:
 
-##<a name="msft"></a>Microsoft (NASDAQ:MSFT)
+##<a name="msft"></a>Microsoft (NASDAQ:MSFT): Taking the Cloud
 After their Surface’s big flop in 2012, Microsoft has been under the radar the last couple of years, working hard to rebrand themselves. However, they've come back into investor's sights with the recent appointment of their new CEO, Satya Nadella, in February of 2014. They've also have made headlines in 2014 with their acquisitions of Mojang, most known for their game Minecraft, and Nokia. Among investors, they are also known for it’s huge dividend yield of 2.8%, one of the best payouts in technology sector. Over the last year the company’s stock grew nearly 30% -- Here’s why we think you should a look at Microsoft this year before it start rallying again:
 
 ####Refocused efforts in cloud
@@ -35,7 +35,7 @@ Overall, 2015 is looking really solid for Microsoft and there is a pretty high u
 [^5]: <http://press.ihs.com/press-release/design-supply-chain/cloud-related-spending-businesses-triple-2011-2017>
 [^6]: <http://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Microsoft>
 
-##<a name="gild"></a>Gilead Sciences (NASDAQ:GILD) 
+##<a name="gild"></a>Gilead Sciences (NASDAQ:GILD): Steady.. for a Biotech
 Gilead Sciences is an American biopharmaceutical company with a focus on developing and commercializing therapeutics. For more background info check [the Gilead Wikipedia page](https://en.wikipedia.org/wiki/Gilead_Sciences). GILD makes top shelf treatments like Harvoni, a hepatitis C drug with a very high cure rate. It boasts a functional cure rate of 99% in select patient types.[^7] Harvoni has gotten lots of attention for both effectiveness and it’s price. Harvoni costs $1,125 a pill, or $94,500 for a 12-week course of treatment. It may seem outrageous but patients with hepatitis are still finding ways to pay for it.[^8]
 
 [^7]: <http://www.modernhealthcare.com/article/20141010/NEWS/310109947>
@@ -64,7 +64,7 @@ Gilead is a prime example of this philosophy as it is extremely large and has gr
 
 For additional reading on Gilead check out this article, [Fool - Could Gilead be a Top Stock in 2015?](http://www.fool.com/investing/general/2014/12/22/could-gilead-sciences-inc-be-a-top-stock-in-2015.aspx)
 
-##<a name="dis"></a>Disney (NYSE:DIS)
+##<a name="dis"></a>Disney (NYSE:DIS): Crowdpleaser, even for Investors
 If you’re looking for a blue chip stock with steady positive growth, Disney may fit your criteria. Their stock price is constantly breaking 52 week highs every quarter last year. This is because Disney has extremely [low mean reversion](http://en.wikipedia.org/wiki/Mean_reversion_(finance\)) and high return on equity. This makes Disney a great mid-long term hold that won’t make you anxious. The best time to get it is in the present moment, because their stock price rarely looks back. Some reasons why Disney deserves some research are:
 
 ####Highly anticipated releases in 2015 to follow positive reception in 2014
