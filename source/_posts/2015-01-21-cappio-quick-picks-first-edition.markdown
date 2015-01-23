@@ -5,7 +5,11 @@ date: 2015-01-21 16:23:19 -0500
 comments: true
 categories: 
 ---
-Let's start the new year with some fresh content to help streamline your investing! We want to premiere this new series that highlights some interesting companies that you may want to do further research on. We hope these summaries can jumpstart your own research by highlighting some key insights we have gathered from reputable articles. Essentially, this series will be doing for qualitative summaries what our Cappio report does for quantitative data!
+##Quick Summaries for Busy People
+
+We want to premiere the CappioNotes series as a way to jump start your own research by highlighting key insights we have gathered from reputable articles. Essentially, CappioNotes will be doing for qualitative analyst articles what our Cappio report does for quantitative financial data!
+
+So without further ado, let’s jump right into it:
 
 Today we are covering: 
 
@@ -82,4 +86,4 @@ Overall, Disney also has good fundamentals that can be taken a look at on our Ca
 
 For additional reading on Disney, check out this article, [Fool - 3 Reasons Disney could top $100 in 2015](http://www.fool.com/investing/general/2014/12/09/3-reasons-walt-disney-co-stock-could-top-100-in-20.aspx)
 
-Well that concludes our first edition of Cappio Quick Picks. Look out for more to come and don't hesitate to ask us any questions on the comments below or shoot us a note at hello@capp.io
+Well that concludes our first edition of CappioNotes. Look out for more to come and don't hesitate to ask us any questions on the comments below or shoot us a note at hello@capp.io
