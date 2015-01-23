@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "CappioNotes - First Edition: MSFT, GILD, DIS"
+title: "CappioNotes, First Edition (MSFT, GILD, DIS)"
 date: 2015-01-21 16:23:19 -0500
 comments: true
 categories: 
 ---
-##Quick Summaries for Busy People
+##Quick Investment Ideas for Busy People
 
 We want to premiere the CappioNotes series as a way to jump start your own research by highlighting key insights we have gathered from reputable articles. Essentially, CappioNotes will be doing for qualitative analyst articles what our Cappio report does for quantitative financial data!
 
