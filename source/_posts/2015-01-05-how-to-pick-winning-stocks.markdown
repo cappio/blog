@@ -12,6 +12,7 @@ Usually this is a process that can take a couple hours, if not days for a novice
 
 {% youtube bDedohLsEwo %}
 
+<!--more-->
 #Breaking it Down
 
 Determining if a company is financially stable can seem subjective and daunting. Cappio breaks down the financial data into four domains to help analysze the company from the top down:

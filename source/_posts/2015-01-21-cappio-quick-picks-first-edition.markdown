@@ -9,15 +9,11 @@ categories:
 
 We want to premiere the CappioNotes series as a way to jump start your own research by highlighting key insights we have gathered from reputable articles. Essentially, CappioNotes will be doing for qualitative analyst articles what our Cappio report does for quantitative financial data!
 
-So without further ado, let’s jump right into it:
-
 Today we are covering: 
 
 * [Microsoft](#msft)
 * [Gilead](#gild)
 * [Disney](#dis) 
-
-Let's jump right into it:
 
 ##<a name="msft"></a>Microsoft (NASDAQ:MSFT): Taking the Cloud
 After their Surface’s big flop in 2012, Microsoft has been under the radar the last couple of years, working hard to rebrand themselves. However, they've come back into investor's sights with the recent appointment of their new CEO, Satya Nadella, in February of 2014. They've also have made headlines in 2014 with their acquisitions of Mojang, most known for their game Minecraft, and Nokia. Among investors, they are also known for it’s huge dividend yield of 2.8%, one of the best payouts in technology sector. Over the last year the company’s stock grew nearly 30% -- Here’s why we think you should a look at Microsoft this year before it start rallying again:
@@ -25,6 +21,7 @@ After their Surface’s big flop in 2012, Microsoft has been under the radar the
 ####Refocused efforts in cloud
 Microsoft has really turned their focus towards mobile and cloud technologies in the last years.[^1] They have already shown great growth in 2014 based on their cloud revenue numbers. Commercial cloud revenue has grown 128% in last quarter alone.[^2] With Nadella leading the charge as a "mobile first, cloud first" company, there’s tremendous room for growth in 2015. This year, Microsoft is making a big push Microsoft’s mobile with lots of chat about what's to come of their Nokia aquisition.[^3]
 
+<!--more-->
 ####Cloud Computing industry as a whole is rapidly growing
 The cloud computing industry is growing like wildfire, with global spending reaching $150B in 2014.[^4] There's no sign of that trend slowing down. An IHS report shows by 2017, enterprise spending on cloud computing will amount to a projected $235.1B.[^5] Microsoft has positioned itself to compete with Amazon and Google to dominate this market. Revenue’s have increased over the last year and Microsoft has managed to accumulate a good amount of cash to acquire key players in cloud and mobile to grow its own service offerings. This is obvious when you take a look  aquisition history that 8 of the last 10 were related to cloud or mobile technologies.[^6]
 

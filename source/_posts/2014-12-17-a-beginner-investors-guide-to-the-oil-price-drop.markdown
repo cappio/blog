@@ -17,7 +17,13 @@ You don’t need an economist to tell you oil prices are tanking. Anyone who’s
 
 Let’s take a look at four fundamentally sound companies that relate to the current oil prices.
 
-###Global Partners LP (NYSE: GLP)
+* [Global Partners LP](#glp)
+* [Schlumberger Limited](#slb)
+* [Exxon Mobil](#xom)
+* [Delta Air Lines](#dal)
+
+<!--more-->
+###<a name="glp"></a>Global Partners LP (NYSE: GLP)
  
 Global Partners LP is one of the largest wholesale distributors of gasoline, home heating oil, and residual oil to wholesalers, retailers and commercial customers in New England and New York. They also have a network of approximately 1,000 independent owners, suppliers and operators of gasoline stations in the Northeast. 
 
@@ -27,7 +33,7 @@ They are currently nearing their 52 week low of $32.77 but have been putting up 
 
 Read more about GLP from [The Street - One Reason Global Partners is Down](http://www.thestreet.com/story/12976330/1/one-reason-global-partners-glp-stock-is-down-today.html)
 
-###Schlumberger Limited (NYSE: SLB)
+###<a name="slb"></a>Schlumberger Limited (NYSE: SLB)
 
 Schlumberger Limited is an oilfield services company that supplies technology, integrated project management, and information solutions to oil and gas exploration and production. With the prices at they are right now, oil producers need Schlumberger technology to increase production and margins. Schlumberger's financials show amazing stability. You can see the solid numbers from [their Cappio report](http://www.capp.io/queries/new?query=SLB)
 
@@ -35,7 +41,7 @@ Schlumberger Limited is an oilfield services company that supplies technology, i
 
 More indepth analysis on Schlumberger can be found on [Seeking Alpha - Schlumberger is the Last haven in a Collapsing Oil Market](http://seekingalpha.com/article/2720905-schlumberger-is-the-last-haven-in-a-collapsing-oil-market)
 
-###Exxon Mobil (NYSE:XOM)
+###<a name="xom"></a>Exxon Mobil (NYSE:XOM)
 
 Exxon Mobil Corporation explores and produces for crude oil and natural gas. It is considered a safe play way to directly invest in a potential oil rebound because they produce oil and natural gas at a 50/50 ratio. Exxon has historically been accused of it’s large exposure to natural gas, which has greatly lagged the price of crude oil in the last six years. With the recent dip in price this split is now positive. It also explains why the stock of Exxon has lost only 10% of its value in the last five months, while Chevron has lost 17% and BP has lost 19%. [Check the Cappio report here](http://www.capp.io/queries/new?query=xom)
 
@@ -43,7 +49,7 @@ Exxon Mobil Corporation explores and produces for crude oil and natural gas. It 
 
 Read a more indepth analysis from [Seeking Alpha - Exxon Mobile is the Safest Way to play the Oil Rebound](http://seekingalpha.com/article/2749565-exxonmobil-the-safest-way-to-play-the-oil-rebound)
 
-###Delta Air Lines, Inc. (NYSE: DAL)
+###<a name="dal"></a>Delta Air Lines, Inc. (NYSE: DAL)
 
 Fuel makes up a third of airlines’ operating costs. According to the Air Transportation Association (ATA), fuel is an airline's second largest expense. With these prices falling their margins are increased substantially. [Here are some of solid fundamentals they are showing on their Cappio report](http://www.capp.io/queries/new?query=dal)
 

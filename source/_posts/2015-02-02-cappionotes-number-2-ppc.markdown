@@ -24,6 +24,7 @@ PPC isn’t typically regarded as the most exciting company to cover but their r
 
 First and foremost, what makes PPC even worth considering is the financial stability it portrayed over the last year. Continually growing revenues, steady earnings growth, and excellent management of its debt levels helped the stock surge 131.08% over the past year. For the financially savvy out there, PPC’s debt-to-equity (a ratio of total liabilities to shareholder’s equity which indicates how to company is financing its assets) is very low at 0.25 and is currently below that of the industry average, implying that there has been very successful management of debt levels.[^1]
 
+<!--more-->
 ####Poised for Grow in 2015
 
 In efforts to keep up the substantial growth, PPC has acquired Tyson Foods, Inc.’s Mexican poultry business for $400 million dollars. The deal is expected to increase PPC’s revenues $650 million giving it a good boost on money coming in over the next year.[^2] The acquisition highlights PPC’s strategy to acquire vertically integrated companies to position itself in the industry for future growth. In addition, on January 28th, 2015, PPC paid out a special cash dividend of $5.77 a share to its shareholders as a testament to their financial discipline and confidence in the future.[^3] 
