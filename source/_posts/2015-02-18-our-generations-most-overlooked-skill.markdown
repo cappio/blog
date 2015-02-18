@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Our Generation's Most Overlooked Skill: Investing"
-date: 2015-02-12 12:00:32 -0500
+date: 2015-02-18 12:00:32 -0500
 comments: true
 categories: 
 ---
