@@ -4,7 +4,7 @@
   <title><![CDATA[Capital In, Capital Out]]></title>
   <link href="http://cappio.github.io/atom.xml" rel="self"/>
   <link href="http://cappio.github.io/"/>
-  <updated>2015-02-26T12:14:36-05:00</updated>
+  <updated>2015-03-31T14:11:21-04:00</updated>
   <id>http://cappio.github.io/</id>
   <author>
     <name><![CDATA[Cappio]]></name>
@@ -12,6 +12,52 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Product Updates: Rating Previews, Last Searches, and Fresh Tooltips]]></title>
+    <link href="http://cappio.github.io/blog/2015/03/31/product-updates-rating-previews/"/>
+    <updated>2015-03-31T11:04:16-04:00</updated>
+    <id>http://cappio.github.io/blog/2015/03/31/product-updates-rating-previews</id>
+    <content type="html"><![CDATA[<p>There&rsquo;s been a lot going on in March at Cappio HQ. Our primary focus this month was to find reliable and affordable data so we can continue to provide you with easy to read reports. We are very close to integrating with our new data source and should have updates in the next couple of weeks. This should solve some of the problems we have with stability and breadth of search.</p>
+
+<p>In the meantime, it&rsquo;s been a while since we&rsquo;ve updated you on Cappio changes, here&rsquo;s a quick overview of some of our latest features:</p>
+
+<h3>Rating Previews</h3>
+
+<p>Cappio has always brought up critical competitor data in our &ldquo;Valuation&rdquo; module but the only way you could easily compare two companies holistically was to pull up both Cappio reports side-by-side. Now you can get a quick understanding by just taking a look at the &ldquo;Competitor&rdquo; module. We now cache all completed Cappio searches and have added the rating colors to previews of companies in the competitor module. Here&rsquo;s an example with our American Airline report:</p>
+
+<p><a href="http://www.capp.io/queries/new?query=AAL"><img src="http://note.io/1EYUD5F"></a></p>
+
+<!--more-->
+
+
+<p>As a refresher here are the ranges for the scores and how they affect our rating:</p>
+
+<ul>
+<li>Strong Buy: >90</li>
+<li>Buy: 70-90</li>
+<li>Hold: 50-70</li>
+<li>Sell: &lt;50</li>
+</ul>
+
+
+<h3>Last Searches</h3>
+
+<p><img src="http://note.io/1I0RCrH"></p>
+
+<p>In addition to our watchlist feature, Cappio now keeps track of the last 5 reports you have looked at. I know there are a lot of times I&rsquo;m doing research on a company and do not want to commit to keeping it on a watchlist indefinitely. Hopefully these last searches help you keep your thoughts organized when you have to jump back to the last company you searched.</p>
+
+<h3>Fresh Tooltips</h3>
+
+<p><img src="http://note.io/1EZ1iwF"></p>
+
+<p>In an effort to be more transparent with how we score companies and show insights we have added some tooltips to the Cappio report. For example, the Industry module tooltip says &ldquo;This is the score for the industry comparison. The company gets 2 points for every key metric that is better than the industry average.&rdquo;</p>
+
+<p>For a more in depth analysis of how we do our scoring check out our blog post on <a href="http://blog.capp.io/blog/2015/01/05/how-to-pick-winning-stocks/">how we pick winning stocks</a>.</p>
+
+<p>That&rsquo;s all we got for this update. Follow us on <a href="https://twitter.com/teamcappio">Twitter</a> and <a href="https://facebook.com/teamcappio">Facebook</a> for more updates. Don&rsquo;t hesitate to email us at <a href="&#109;&#97;&#105;&#108;&#x74;&#111;&#58;&#104;&#101;&#108;&#x6c;&#x6f;&#64;&#99;&#x61;&#112;&#112;&#x2e;&#105;&#x6f;">&#x68;&#x65;&#x6c;&#x6c;&#111;&#x40;&#99;&#x61;&#112;&#x70;&#x2e;&#105;&#x6f;</a> if you have questions or comments.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Discovering and Validating Investment Ideas]]></title>
@@ -152,7 +198,7 @@
 
 <p><a href="http://www.capp.io/queries/new?query=LUV"><img src="http://i.imgur.com/WF3WmkF.png"></a></p>
 
-<p>That&rsquo;s all for this week! Don&rsquo;t hesistate to comment or shoot us a note with questions at <a href="&#x6d;&#x61;&#105;&#108;&#116;&#x6f;&#58;&#x68;&#101;&#x6c;&#108;&#x6f;&#64;&#x63;&#97;&#112;&#112;&#x2e;&#105;&#111;">&#104;&#101;&#108;&#x6c;&#111;&#x40;&#x63;&#x61;&#x70;&#x70;&#46;&#105;&#111;</a></p>
+<p>That&rsquo;s all for this week! Don&rsquo;t hesistate to comment or shoot us a note with questions at <a href="&#x6d;&#x61;&#105;&#x6c;&#116;&#111;&#x3a;&#104;&#x65;&#x6c;&#108;&#111;&#64;&#x63;&#97;&#x70;&#112;&#46;&#105;&#111;">&#104;&#x65;&#108;&#x6c;&#111;&#64;&#x63;&#97;&#x70;&#x70;&#46;&#105;&#111;</a></p>
 <div class="footnotes">
 <hr/>
 <ol>
@@ -249,7 +295,7 @@
 
 <p>For additional reading on Disney, check out this article, <a href="http://www.fool.com/investing/general/2014/12/09/3-reasons-walt-disney-co-stock-could-top-100-in-20.aspx">Fool - 3 Reasons Disney could top $100 in 2015</a></p>
 
-<p>Well that concludes our first edition of CappioNotes. Look out for more to come and don&rsquo;t hesitate to ask us any questions on the comments below or shoot us a note at <a href="&#x6d;&#97;&#x69;&#108;&#x74;&#x6f;&#x3a;&#x68;&#101;&#x6c;&#x6c;&#x6f;&#x40;&#x63;&#x61;&#x70;&#x70;&#x2e;&#105;&#x6f;">&#104;&#101;&#x6c;&#x6c;&#111;&#x40;&#99;&#x61;&#x70;&#x70;&#x2e;&#105;&#x6f;</a></p>
+<p>Well that concludes our first edition of CappioNotes. Look out for more to come and don&rsquo;t hesitate to ask us any questions on the comments below or shoot us a note at <a href="&#x6d;&#97;&#105;&#x6c;&#x74;&#111;&#x3a;&#104;&#101;&#108;&#x6c;&#x6f;&#64;&#99;&#x61;&#x70;&#112;&#x2e;&#x69;&#111;">&#104;&#101;&#108;&#x6c;&#x6f;&#x40;&#x63;&#97;&#112;&#112;&#x2e;&#x69;&#111;</a></p>
 <div class="footnotes">
 <hr/>
 <ol>
