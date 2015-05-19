@@ -1,0 +1,89 @@
+---
+layout: post
+title: "CappNotes #3 - LINE, PWR"
+date: 2015-05-18 10:49:12 -0400
+comments: true
+categories: 
+---
+
+##Quick Investment Ideas for Busy People
+
+Welcome to the third edition of CappNotes.  As usual we will give you some jumping off points for handpicked companies.  This week we are covering:
+
+* [Linn Energy](#line)
+* [Quanta Services](#pwr)
+
+##<a name="line"></a>Linn Energy (NASDAQ:LINE)
+
+* Dealing with debt problem in 2019 in innovative cash saving ways.
+* One of the best hedged companies in the industry.
+* Stock was hammered in 2014 because of issues that are beginning to be resolved.
+
+LINE is an oil and natural gas driller that is based in the United States and only has holdings in the United States.  For a number of years Linn Energy’s growth was driven by acquisitions which caused a massive amount of debt coming due in 2019 to accumulate.  However, LINE has recently reached out and has started to gain a foothold on their debt issue.
+
+<!--more-->
+####2019 Sees Massive Debt
+
+In 2019 Linn Energy has \$6.148 billion[^1] in bonds and credit facilities (an agreed loan that is used up slowly) coming due.  To put it in perspective their total long term debt is \$10.398 billion. This means by 2019, 59% of their long term debt is due. 
+
+To combat this Linn Energy, has entered two intriguing deals with non-binding letters of intent signed, one with GSO Capital Partners and the other with Quantum Energy Partners.  The deal with GSO Capital Partners has been labeled Drill Co and enables Linn Energy to continue drilling new wells on their property with $500 million of GSO’s financing. In return GSO receives 85% of the working interest (receives 85% of the profits but also pays for 85% of the costs) in the wells until they receive their money back plus 15%. Once this happens their working interest drops to 5%.[^2]
+
+The potential alliance with Quantum Energy Partners is titled AcqCo and is basically a vehicle for Linn Energy to make acquisitions without spending a large amount of cash.[^3]
+
+[^1]: <http://files.shareholder.com/downloads/LINE/176052611x0xS1326428-15-20/1326428/filing.pdf>
+
+[^2]: <http://ir.linnenergy.com/releasedetail.cfm?ReleaseID=889240>
+
+[^3]:  <http://ir.linnenergy.com/releasedetail.cfm?ReleaseID=903003>
+
+####Linn Energy is Beautifully Hedged
+
+Hedging is when a company agrees to sell a certain amount of its product at a certain price.  If the price goes down they make money and if they price goes up they can make or lose money.  However, they know approximately how much money they will make.  For further reading on hedging, also known as derivatives, in the natural gas and oil exploration industry see the following link:
+
+http://www.investopedia.com/terms/e/energy-derivative.asp
+
+Linn Energy is hedged approximately 100% of its expected natural gas production through 2017 and 70% in 2015 and 65% in 2016 in regards to expected oil production.[^4]
+
+[^4]: <http://www.linnenergy.com/wp-content/uploads/2015/04/LINE-Fact-Sheet-2015.pdf>
+
+###Stock Price 2014 Worries Easing
+
+In 2014 an informal inquiry by the SEC was launched to investigate Linn Energy.  On February 5, 2015[^5] the inquiry was closed with no action recommended.  This means that they found no foul play.
+
+Check out their fundamentals more in depth with our Capp.io report:
+
+[{% img http://i.imgur.com/VwfHn9C.png %}](http://www.capp.io/queries/new?query=LINE)
+
+[^5]:  <http://ir.linnenergy.com/releasedetail.cfm?ReleaseID=895089>
+
+##Quanta Services (NASDAQ:PWR)
+
+* United States infrastructure is in desperate need of repair.
+* Many power plants are switching to natural gas.
+* Quanta Services is poised to take advantage of these market trends.
+
+PWR is an international company that provides “engineering, procurement and construction (EPC) services” for the electric power and oil and natural gas industries.  With American energy infrastructure failing and with the American oil and natural gas industries on the rise, Quanta services is poised to have substantial growth in the coming years.
+
+####United States Power Infrastructure is Failing
+
+In 2013 America was given a D+ rating for our energy infrastructure by the American Society of Civil Engineers.[^6]  A D+ rating is equivalent to a rating of poor and is the second lowest letter in their ratings.  Due to the failing state of our infrastructure the American Society of Civil Engineers has said that by 2020 $3.6 trillion will be needed to fix it.  This is an open door for long term growth for Quanta Services and they are already taking grasp of the opportunity.
+
+[^6]: <http://www.infrastructurereportcard.org/a/#p/energy/overview>
+
+####Coal is the Past, Natural Gas is the Present
+
+In 2013 natural gas power plants provided approximately 50% of new power plant generating capacity.[^7] This is due to the massive increase in natural gas power plants since the shale boom in the United States.
+
+[^7]: <http://www.eia.gov/todayinenergy/detail.cfm?id=15751>
+
+####Quanta Services is Ready to Lead the Charge
+
+In their March 2015 investor report[^8] Quanta Services says they believe they will have double digit growth in their electric power industry which involves power plants, power lines, and additions to the electric grid.  They also believe that due to the shale, oil and natural gas, boom in the United States they are expecting double digit growth in their oil and gas infrastructure division.  This double digit growth will stem from increased need for pipelines and North American oil and natural gas infrastructure.  Quanta services has recognized the potential and is prepared to take advantage of it.
+
+[^8]:  <http://investors.quantaservices.com/presentations>
+
+Check out their fundamentals more in depth with our Capp.io report:
+
+[{% img http://i.imgur.com/Jzr9SXg.png %}](http://www.capp.io/queries/new?query=PWR)
+
+Well that concludes our third edition of CappNotes. Look out for more to come! Let us know what you think in the comments below or shoot us a note at hello@capp.io

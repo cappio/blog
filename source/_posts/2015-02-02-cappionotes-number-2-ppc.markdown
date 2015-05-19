@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "CappioNotes #2: PPC, LUV"
+title: "CappNotes #2: PPC, LUV"
 date: 2015-02-02 14:55:07 -0500
 comments: true
 categories: 
 ---
 ##Quick Investment Ideas for Busy People
 
-Welcome back to the second edition of CappioNotes. Just like last time, we will give you some quick starting points for potential investments. This week we are covering:
+Welcome back to the second edition of CappNotes. Just like last time, we will give you some quick starting points for potential investments. This week we are covering:
 
 * [Pilgrim's Pride](#ppc)
 * [Southwest Airlines](#luv)
