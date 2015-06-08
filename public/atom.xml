@@ -4,7 +4,7 @@
   <title><![CDATA[Capital In, Capital Out]]></title>
   <link href="http://cappio.github.io/atom.xml" rel="self"/>
   <link href="http://cappio.github.io/"/>
-  <updated>2015-06-08T13:13:45-04:00</updated>
+  <updated>2015-06-08T14:48:45-04:00</updated>
   <id>http://cappio.github.io/</id>
   <author>
     <name><![CDATA[Cappio]]></name>
@@ -51,13 +51,13 @@
 
 <h3>Only The Beginning</h3>
 
-<p>Take a look our new sample report of AAPL get a better idea of what we highlighted in this blog post. We are busy ironing out the kinks and wanted to get a version of the new product out there to gather feedback as early as possible.</p>
+<p>Take a look <a href="http://www.capp.io/queries/new?query=AAPL">our new sample report of AAPL</a> get a better idea of what we highlighted in this blog post. We are busy ironing out the kinks and wanted to get a version of the new product out there to gather feedback as early as possible.</p>
 
 <p>Sign up for our waitlist now to get early access:</p>
 
 <p><form id="form" style="display: inline;">
-<input class="form-control" id="email" placeholder="Enter email." name="kol_email" style="float: left; width: 30%; padding-left: 15px; height: 3em; border-top-right-radius: 0; border-bottom-right-radius: 0;">
-<button class="cappio-button" style="margin-left: 0; border-top-left-radius: 0; border-bottom-left-radius: 0;background: #3E8FEF ; border: 0; padding: 15px; font-size: 15px; letter-spacing: 1px;" type="submit">Get access</button>
+<input class="form-control" id="email" placeholder="Enter email." name="kol_email" style="float: left; width: 30%; padding-left: 15px; height: 41px; border-top-right-radius: 0; border-bottom-right-radius: 0;">
+<button class="cappio-button" style="margin-left: 0; border-radius: 5px;color: #ffffff ;border-top-left-radius: 0; border-bottom-left-radius: 0;background: #3E8FEF  ; border: 0; padding: 15px; font-size: 15px; letter-spacing: 1px;" type="submit">Get access</button>
 </form></p>
 
 <script>window.jQuery || document.write('<scr' + 'ipt src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"><\/sc' + 'ript>')</script>
@@ -72,7 +72,7 @@
 <script src='https://kickoffpages-kickofflabs.netdna-ssl.com/w/48600/56149.js'></script>
 
 
-<p>Drop us a note at <a href="&#109;&#x61;&#x69;&#x6c;&#116;&#x6f;&#58;&#104;&#101;&#108;&#x6c;&#x6f;&#64;&#99;&#97;&#112;&#x70;&#x2e;&#105;&#x6f;">&#x68;&#101;&#108;&#x6c;&#x6f;&#64;&#x63;&#97;&#112;&#x70;&#x2e;&#105;&#x6f;</a> if you have any questions or comments.</p>
+<p>Drop us a note at <a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#x6f;&#58;&#x68;&#x65;&#108;&#x6c;&#x6f;&#64;&#x63;&#x61;&#x70;&#x70;&#46;&#x69;&#x6f;">&#104;&#101;&#108;&#x6c;&#111;&#x40;&#99;&#97;&#112;&#x70;&#x2e;&#x69;&#111;</a> if you have any questions or comments.</p>
 
 <p>Will, Jay, Chintan - founders, Capp.io</p>
 ]]></content>
@@ -158,7 +158,7 @@
 
 <p><a href="http://www.capp.io/queries/new?query=PWR"><img src="http://i.imgur.com/Jzr9SXg.png"></a></p>
 
-<p>Well that concludes our third edition of CappNotes. Look out for more to come! Let us know what you think in the comments below or shoot us a note at <a href="&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#x3a;&#104;&#x65;&#108;&#x6c;&#111;&#64;&#x63;&#97;&#x70;&#x70;&#46;&#105;&#111;">&#x68;&#101;&#108;&#108;&#x6f;&#64;&#x63;&#x61;&#112;&#112;&#46;&#105;&#x6f;</a></p>
+<p>Well that concludes our third edition of CappNotes. Look out for more to come! Let us know what you think in the comments below or shoot us a note at <a href="&#109;&#x61;&#x69;&#x6c;&#116;&#111;&#58;&#104;&#x65;&#108;&#x6c;&#111;&#64;&#99;&#97;&#x70;&#x70;&#x2e;&#105;&#x6f;">&#104;&#x65;&#108;&#108;&#x6f;&#x40;&#99;&#97;&#x70;&#112;&#x2e;&#x69;&#x6f;</a></p>
 <div class="footnotes">
 <hr/>
 <ol>
@@ -226,7 +226,7 @@
 
 <p>For a more in depth analysis of how we do our scoring check out our blog post on <a href="http://blog.capp.io/blog/2015/01/05/how-to-pick-winning-stocks/">how we pick winning stocks</a>.</p>
 
-<p>That&rsquo;s all we got for this update. Follow us on <a href="https://twitter.com/teamcappio">Twitter</a> and <a href="https://facebook.com/teamcappio">Facebook</a> for more updates. Don&rsquo;t hesitate to email us at <a href="&#x6d;&#97;&#105;&#x6c;&#116;&#x6f;&#58;&#104;&#x65;&#108;&#x6c;&#x6f;&#x40;&#99;&#97;&#112;&#112;&#x2e;&#x69;&#111;">&#x68;&#x65;&#x6c;&#x6c;&#x6f;&#x40;&#x63;&#97;&#112;&#112;&#x2e;&#x69;&#111;</a> if you have questions or comments.</p>
+<p>That&rsquo;s all we got for this update. Follow us on <a href="https://twitter.com/teamcappio">Twitter</a> and <a href="https://facebook.com/teamcappio">Facebook</a> for more updates. Don&rsquo;t hesitate to email us at <a href="&#109;&#97;&#105;&#x6c;&#116;&#x6f;&#x3a;&#104;&#x65;&#x6c;&#x6c;&#111;&#x40;&#x63;&#x61;&#x70;&#112;&#x2e;&#x69;&#111;">&#x68;&#x65;&#x6c;&#x6c;&#x6f;&#64;&#99;&#x61;&#x70;&#x70;&#x2e;&#105;&#x6f;</a> if you have questions or comments.</p>
 ]]></content>
   </entry>
   
@@ -369,7 +369,7 @@
 
 <p><a href="http://www.capp.io/queries/new?query=LUV"><img src="http://i.imgur.com/WF3WmkF.png"></a></p>
 
-<p>That&rsquo;s all for this week! Don&rsquo;t hesistate to comment or shoot us a note with questions at <a href="&#109;&#97;&#x69;&#108;&#x74;&#111;&#x3a;&#x68;&#x65;&#108;&#108;&#111;&#x40;&#x63;&#97;&#x70;&#x70;&#x2e;&#x69;&#111;">&#x68;&#101;&#108;&#108;&#x6f;&#64;&#99;&#x61;&#112;&#x70;&#x2e;&#105;&#x6f;</a></p>
+<p>That&rsquo;s all for this week! Don&rsquo;t hesistate to comment or shoot us a note with questions at <a href="&#109;&#x61;&#x69;&#x6c;&#116;&#111;&#58;&#x68;&#101;&#108;&#x6c;&#111;&#64;&#x63;&#97;&#112;&#x70;&#x2e;&#x69;&#111;">&#104;&#101;&#x6c;&#108;&#111;&#64;&#x63;&#x61;&#x70;&#112;&#x2e;&#x69;&#111;</a></p>
 <div class="footnotes">
 <hr/>
 <ol>
@@ -466,7 +466,7 @@
 
 <p>For additional reading on Disney, check out this article, <a href="http://www.fool.com/investing/general/2014/12/09/3-reasons-walt-disney-co-stock-could-top-100-in-20.aspx">Fool - 3 Reasons Disney could top $100 in 2015</a></p>
 
-<p>Well that concludes our first edition of CappNotes. Look out for more to come and don&rsquo;t hesitate to ask us any questions on the comments below or shoot us a note at <a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#x68;&#x65;&#x6c;&#108;&#111;&#x40;&#x63;&#x61;&#x70;&#112;&#46;&#105;&#x6f;">&#104;&#x65;&#x6c;&#108;&#x6f;&#x40;&#x63;&#97;&#112;&#112;&#x2e;&#x69;&#111;</a></p>
+<p>Well that concludes our first edition of CappNotes. Look out for more to come and don&rsquo;t hesitate to ask us any questions on the comments below or shoot us a note at <a href="&#109;&#97;&#x69;&#108;&#116;&#x6f;&#x3a;&#x68;&#x65;&#108;&#108;&#x6f;&#64;&#x63;&#97;&#x70;&#112;&#x2e;&#105;&#x6f;">&#x68;&#101;&#108;&#108;&#x6f;&#64;&#99;&#97;&#x70;&#x70;&#x2e;&#x69;&#x6f;</a></p>
 <div class="footnotes">
 <hr/>
 <ol>
