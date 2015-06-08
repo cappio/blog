@@ -42,8 +42,8 @@ Take a look our new sample report of AAPL get a better idea of what we highlight
 Sign up for our waitlist now to get early access:
 
 <form id="form" style="display: inline;">
-<input class="form-control" id="email" placeholder="Enter email." name="kol_email" style="float: left; width: 30%; padding-left: 15px; height: 3em; border-top-right-radius: 0; border-bottom-right-radius: 0;">
-<button class="cappio-button" style="margin-left: 0; border-top-left-radius: 0; border-bottom-left-radius: 0;background: #3E8FEF ; border: 0; padding: 15px; font-size: 15px; letter-spacing: 1px;" type="submit">Get access</button>
+<input class="form-control" id="email" placeholder="Enter email." name="kol_email" style="float: left; width: 30%; padding-left: 15px; height: 41px; border-top-right-radius: 0; border-bottom-right-radius: 0;">
+<button class="cappio-button" style="margin-left: 0; border-radius: 5px;color: #ffffff ;border-top-left-radius: 0; border-bottom-left-radius: 0;background: #3E8FEF  ; border: 0; padding: 15px; font-size: 15px; letter-spacing: 1px;" type="submit">Get access</button>
 </form>
 <script>window.jQuery || document.write('<scr' + 'ipt src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"><\/sc' + 'ript>')</script>
 <script>window.$kol_jquery = window.jQuery</script>
