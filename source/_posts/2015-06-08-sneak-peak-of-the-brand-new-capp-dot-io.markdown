@@ -37,7 +37,7 @@ Reading news and keeping up with current events gives a good investor his/her ed
 
 ###Only The Beginning
 
-Take a look our new sample report of AAPL get a better idea of what we highlighted in this blog post. We are busy ironing out the kinks and wanted to get a version of the new product out there to gather feedback as early as possible.
+Take a look [our new sample report of AAPL](http://www.capp.io/queries/new?query=AAPL) get a better idea of what we highlighted in this blog post. We are busy ironing out the kinks and wanted to get a version of the new product out there to gather feedback as early as possible.
 
 Sign up for our waitlist now to get early access:
 
